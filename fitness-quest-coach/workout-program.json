@@ -1,0 +1,302 @@
+{
+  "schema_version": "1.0",
+  "program_name": "Handstand Push-Up Coach",
+  "completion_rule": "Complete all target sets and reps/seconds for every exercise in a single session to unlock the next level.",
+  "session_guidelines": {
+    "cadence": "Every other day is ideal (2–4 sessions/week).",
+    "rest_defaults": "60–90s between skill/hold sets; 120–180s for pressing strength sets."
+  },
+  "levels": [
+    {
+      "level": 1,
+      "title": "Foundations — Core & Inversion Comfort",
+      "rest_guidelines": "Default rests unless otherwise noted.",
+      "exercises": [
+        {
+          "name": "Hollow Body Hold",
+          "type": "hold",
+          "sets": 3,
+          "seconds": 30,
+          "rest_seconds": 60,
+          "video_url": "https://www.youtube.com/watch?v=LlDNef_Ztsc",
+          "quick_tips": [
+            "Lower back glued to the floor.",
+            "Exhale gently and keep ribs down."
+          ]
+        },
+        {
+          "name": "Push-Ups",
+          "type": "reps",
+          "sets": 3,
+          "reps": 12,
+          "rest_seconds": 90,
+          "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+          "quick_tips": [
+            "Elbows at ~45°, not flared.",
+            "Body is one line; no sagging hips."
+          ]
+        },
+        {
+          "name": "Hollow Plank",
+          "type": "hold",
+          "sets": 3,
+          "seconds": 30,
+          "rest_seconds": 60,
+          "video_url": "https://www.youtube.com/watch?v=F-nQ_KJgfCY",
+          "quick_tips": [
+            "Posterior pelvic tilt; squeeze glutes.",
+            "Push the floor away to protract shoulders."
+          ]
+        },
+        {
+          "name": "Crow/Frog Stand",
+          "type": "hold",
+          "sets": 3,
+          "seconds": 20,
+          "rest_seconds": 60,
+          "video_url": "https://www.youtube.com/watch?v=GfZdgYoJBxs",
+          "quick_tips": [
+            "Look slightly forward, not straight down.",
+            "Knees on triceps; spread fingers for balance."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Wall Confidence — Overhead Patterning",
+      "rest_guidelines": "Default rests unless otherwise noted.",
+      "exercises": [
+        {
+          "name": "Pike Push-Ups",
+          "type": "reps",
+          "sets": 4,
+          "reps": 10,
+          "rest_seconds": 120,
+          "video_url": "https://www.youtube.com/watch?v=66x0qQiJ-MA",
+          "quick_tips": [
+            "Travel forward toward a tripod, not straight down.",
+            "Keep elbows tucked; head moves forward between hands."
+          ]
+        },
+        {
+          "name": "Wall Walks",
+          "type": "reps",
+          "sets": 3,
+          "reps": 6,
+          "rest_seconds": 120,
+          "video_url": "https://www.youtube.com/watch?v=NK_OcHEm8yM",
+          "quick_tips": [
+            "Slow and steady; walk hands and feet in sync.",
+            "Keep ribcage down and glutes tight."
+          ]
+        },
+        {
+          "name": "Chest-to-Wall Handstand Hold",
+          "type": "hold",
+          "sets": 4,
+          "seconds": 30,
+          "rest_seconds": 60,
+          "video_url": "https://www.youtube.com/watch?v=olA58oW-21A",
+          "quick_tips": [
+            "Stack wrists–shoulders–hips; push tall through shoulders.",
+            "Squeeze glutes; big toes lightly on wall."
+          ]
+        },
+        {
+          "name": "Tuck L-Sit (Parallettes/Floor)",
+          "type": "hold",
+          "sets": 4,
+          "seconds": 15,
+          "rest_seconds": 60,
+          "video_url": "https://www.youtube.com/watch?v=cu0fHp8HCDo",
+          "quick_tips": [
+            "Lock elbows; depress and protract shoulders.",
+            "Pull knees toward chest; keep feet off floor."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Strength & Control — Bridging to HSPU",
+      "rest_guidelines": "Take up to 2–3 minutes between pressing sets.",
+      "exercises": [
+        {
+          "name": "Elevated Pike Push-Ups (Feet 24–30\")",
+          "type": "reps",
+          "sets": 5,
+          "reps": 8,
+          "rest_seconds": 150,
+          "video_url": "https://www.youtube.com/watch?v=8URA3YSur2M",
+          "quick_tips": [
+            "Hips stacked over shoulders as much as possible.",
+            "Head travels forward to a tripod; elbows tuck."
+          ]
+        },
+        {
+          "name": "Wall Handstand Shoulder Taps",
+          "type": "reps_total",
+          "sets": 4,
+          "reps_total": 20,
+          "rest_seconds": 90,
+          "video_url": "https://www.youtube.com/watch?v=Po2YjztYwGg",
+          "quick_tips": [
+            "Shift weight softly; avoid hopping.",
+            "Keep body tight and eyes between hands."
+          ]
+        },
+        {
+          "name": "Handstand Shrugs (Wall)",
+          "type": "reps",
+          "sets": 3,
+          "reps": 12,
+          "rest_seconds": 60,
+          "video_url": "https://www.youtube.com/watch?v=lVYL_lvl8qA",
+          "quick_tips": [
+            "Straight elbows; move only at the shoulders.",
+            "Think ‘push the floor away’ to elevate traps."
+          ]
+        },
+        {
+          "name": "Hollow Body Rocks",
+          "type": "reps",
+          "sets": 3,
+          "reps": 20,
+          "rest_seconds": 60,
+          "video_url": "https://www.youtube.com/watch?v=0-fyNmd6jyQ",
+          "quick_tips": [
+            "Tiny, smooth rocks without losing lumbar contact.",
+            "Exhale on each forward rock to keep ribs down."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "title": "Assisted HSPU — Range & Eccentrics",
+      "rest_guidelines": "2–3 minutes on pressing, 60–90s on holds.",
+      "exercises": [
+        {
+          "name": "Partial-Range Wall HSPU (to AbMat/Pad ~90° elbows)",
+          "type": "reps",
+          "sets": 5,
+          "reps": 5,
+          "rest_seconds": 180,
+          "video_url": "https://www.youtube.com/watch?v=SgaxPwzccQ4",
+          "quick_tips": [
+            "Lower to a consistent target; neutral neck.",
+            "Keep hips off wall; elbows track forward."
+          ]
+        },
+        {
+          "name": "Deficit Pike Push-Ups",
+          "type": "reps",
+          "sets": 4,
+          "reps": 8,
+          "rest_seconds": 150,
+          "video_url": "https://www.youtube.com/watch?v=8vs8Cw9gKQQ",
+          "quick_tips": [
+            "Hands on plates/blocks to increase ROM.",
+            "Control the bottom; drive back to stack."
+          ]
+        },
+        {
+          "name": "Handstand Negatives (5s eccentric)",
+          "type": "eccentric",
+          "sets": 4,
+          "reps": 3,
+          "tempo": "5-0-X-2",
+          "rest_seconds": 180,
+          "video_url": "https://www.youtube.com/watch?v=4lVVZWq1QSU",
+          "quick_tips": [
+            "Descend smoothly; tripod head position.",
+            "Stay tight; no collapsing on the mat."
+          ]
+        },
+        {
+          "name": "Superman/Arch Hold",
+          "type": "hold",
+          "sets": 3,
+          "seconds": 30,
+          "rest_seconds": 60,
+          "video_url": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "quick_tips": [
+            "Squeeze glutes; lift arms and legs evenly.",
+            "Keep chin tucked; breathe steadily."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "title": "Full HSPU — Peak",
+      "rest_guidelines": "2–3 minutes between HSPU sets.",
+      "exercises": [
+        {
+          "name": "Strict Wall Handstand Push-Ups (Full ROM to target)",
+          "type": "reps",
+          "sets": 5,
+          "reps": 3,
+          "rest_seconds": 180,
+          "video_url": "https://www.youtube.com/watch?v=YWlO1RGzkmE",
+          "quick_tips": [
+            "Touch a consistent target with crown of head.",
+            "Press back to stack; no kipping."
+          ]
+        },
+        {
+          "name": "Deficit Pike Push-Ups",
+          "type": "reps",
+          "sets": 3,
+          "reps": 12,
+          "rest_seconds": 150,
+          "video_url": "https://www.youtube.com/watch?v=8vs8Cw9gKQQ",
+          "quick_tips": [
+            "Keep elbows in; drive through full range.",
+            "Move forward then back, not straight up and down."
+          ]
+        },
+        {
+          "name": "Handstand Hold (Wall or Freestanding)",
+          "type": "hold",
+          "sets": 4,
+          "seconds": 45,
+          "rest_seconds": 60,
+          "video_url": "https://www.youtube.com/watch?v=Tz3ro4Bs4Ko",
+          "quick_tips": [
+            "Active shoulders; fingers ‘grip’ the floor.",
+            "Squeeze glutes and quads to stay stacked."
+          ]
+        },
+        {
+          "name": "Core Finisher – Choose One",
+          "type": "choice",
+          "options": [
+            {
+              "name": "Hanging Leg Raises",
+              "sets": 3,
+              "reps": 10,
+              "video_url": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
+              "quick_tips": [
+                "Posterior pelvic tilt; no swinging.",
+                "Pull ribs down and control the descent."
+              ]
+            },
+            {
+              "name": "V-Ups",
+              "sets": 3,
+              "reps": 15,
+              "video_url": "https://www.youtube.com/watch?v=Mk4zCq9b6hU",
+              "quick_tips": [
+                "Snap to a V with straight knees.",
+                "Lower under control; keep low back down."
+              ]
+            }
+          ]
+        }
+      ],
+      "final_benchmark_goal": "Perform 1 strict handstand push-up (wall or freestanding)."
+    }
+  ]
+}

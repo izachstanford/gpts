@@ -5,10 +5,15 @@
 **File:** `quotebookgpt-main.png`
 
 **Description:** Screenshot of the QuotebookGPT main interface showing:
-- The book stack icon (four leather-bound books)
-- "QuotebookGPT" title
-- "Ask any question to tap into wisdom from the ages" subtitle
-- Four conversation starter buttons (leadership, Marcus Aurelius, happiness, random quote)
+- Dark gray background
+- Circular icon with stack of four leather-bound books (brown/reddish-brown)
+- "QuotebookGPT" title in large bold white text
+- Subtitle: "Ask any question to tap into wisdom from the ages" in white
+- Four conversation starter buttons in lighter gray with white text:
+  - "Give me a quote about leadership"
+  - "Show me quotes by Marcus Aurelius"
+  - "Guru insight on happiness"
+  - "Random quote"
 
 **Source:** Screenshot from the QuotebookGPT chat interface
 
@@ -46,5 +51,5 @@
 
 **Note:** To add the actual images:
 1. Take screenshots of your QuotebookGPT main interface, configuration, and Actions setup
-2. Save them as `quotebookgpt-main.png`, `quotebookgpt-config.png`, and `actions-config.png` in this folder
+2. Replace the placeholder files with actual PNG images
 3. The images will automatically appear in the README when viewed on GitHub or other markdown renderers
