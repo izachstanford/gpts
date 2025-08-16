@@ -5,7 +5,7 @@ insights from books, talks, and articles you've collected over time**.\
 It connects to your personal quote library (stored in Google Sheets) and
 makes it easy to surface wisdom on demand.
 
-![QuotebookGPT Main Interface](images/quotebookgpt-main.png)
+![QuotebookGPT Main Interface](../images/quotebookgpt-main.png)
 
 *The QuotebookGPT main interface showing the book stack icon, title, description, and conversation starter buttons.*
 
@@ -66,7 +66,7 @@ jump-start your own quotebook
     -   Use the `recipe_quotebookgpt.md` file as your system prompt\
     -   Adjust to your liking (e.g., change ranking, cap results, etc.)
 
-![QuotebookGPT Configuration](images/quotebookgpt-config.png)
+![QuotebookGPT Configuration](../images/quotebookgpt-config.png)
 
 *The QuotebookGPT configuration interface showing the system prompt, conversation starters, and knowledge setup.*
 
@@ -75,7 +75,7 @@ jump-start your own quotebook
     -   Add an `appendQuoteToInbox` action (Google Sheets API with
         OAuth)
 
-![Actions Configuration](images/actions-config.png)
+![Actions Configuration](../images/quotebookgpt-actions-config.png)
 
 *The Actions configuration panel showing Google services integration with docs.google.com and sheets.googleapis.com endpoints.*
 
